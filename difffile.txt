@@ -1,0 +1,35 @@
+2c2
+< Date: Mon, 11 Sep 2023 23:30:58 GMT
+---
+> Date: Mon, 11 Sep 2023 23:31:51 GMT
+19d18
+< <P>No form fields.
+20a20,21
+> <DT>X: <i>&lt;type 'instance'&gt;</i>
+> <DD>MiniFieldStorage('X', 'Y')
+25a27,28
+> <DT> CONTENT_LENGTH <DD> 3
+> <DT> CONTENT_TYPE <DD> application/x-www-form-urlencoded
+37,38c40,41
+< <DT> REMOTE_PORT <DD> 55360
+< <DT> REQUEST_METHOD <DD> GET
+---
+> <DT> REMOTE_PORT <DD> 50756
+> <DT> REQUEST_METHOD <DD> POST
+52c55
+< <DT> UNIQUE_ID <DD> ZP@jMkgEms-5rFu3DPCkxwAAAAo
+---
+> <DT> UNIQUE_ID <DD> ZP@jZwwhYKzTw2tiJdPr6AAAAAE
+127a131,132
+> <DT> CONTENT_LENGTH <DD> 3
+> <DT> CONTENT_TYPE <DD> application/x-www-form-urlencoded
+139,140c144,145
+< <DT> REMOTE_PORT <DD> 55360
+< <DT> REQUEST_METHOD <DD> GET
+---
+> <DT> REMOTE_PORT <DD> 50756
+> <DT> REQUEST_METHOD <DD> POST
+154c159
+< <DT> UNIQUE_ID <DD> ZP@jMkgEms-5rFu3DPCkxwAAAAo
+---
+> <DT> UNIQUE_ID <DD> ZP@jZwwhYKzTw2tiJdPr6AAAAAE
