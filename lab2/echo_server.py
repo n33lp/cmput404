@@ -6,7 +6,7 @@ from threading import Thread
 
 BYTES_TO_READ = 4096
 HOST = "127.0.0.1"  # Local host IP address
-PORT = 8000
+PORT = 8080
 
 # Function to handle a single client connection and echo received data
 def handle_connection(conn, addr):
